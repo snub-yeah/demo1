@@ -1,0 +1,5 @@
+# java class
+*.class
+
+#im guessing this is an intellij file
+*.idea/
